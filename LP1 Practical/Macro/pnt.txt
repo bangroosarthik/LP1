@@ -1,0 +1,12 @@
+----------PNTAB FOR INCR MACRO------
+2. MEM_VAL
+3. INCR_VAL
+4. REG
+----------PNTAB FOR INCR_M MACRO------
+2. MEM_VAL
+3. INCR_VAL
+4. REG
+----------PNTAB FOR INCR_D MACRO------
+2. MEM_VAL
+3. INCR_VAL
+4. REG
