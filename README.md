@@ -1,2 +1,2 @@
-# LP1
-This repository contains code of LP1
+# LP1 
+SPPU University All Assignments Code 
